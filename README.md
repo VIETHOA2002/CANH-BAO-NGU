@@ -60,11 +60,8 @@ Alcohol Sensor SEN0376
 
 📈 Kết quả
 Nhận diện buồn ngủ chính xác trong điều kiện ánh sáng ổn định.
-<img width="238" height="341" alt="image" src="https://github.com/user-attachments/assets/aa95fb0e-1cdf-4ebe-87eb-1de14ca5b674" />
-
-
 Hệ thống hoạt động ổn định khi đo nhịp tim, GPS và cồn.
-
 Dữ liệu được truyền và hiển thị trên giao diện web đơn giản.
+<img width="238" height="341" alt="image" src="https://github.com/user-attachments/assets/aa95fb0e-1cdf-4ebe-87eb-1de14ca5b674" />
 
 Góp phần nâng cao an toàn khi lái xe đường dài, đặc biệt vào ban đêm.
